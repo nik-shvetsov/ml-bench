@@ -1,0 +1,33 @@
+########################
+## Globaly ignored files
+*~
+*.save
+*.bak
+*.back
+*.backup
+*.o
+*.lib
+*.a
+*.obj
+*.so
+*.layout
+*.user
+*.suo
+*.ncb
+*.swp
+*.moc
+*.user*
+*.cbp
+*.autosave
+
+#
+########
+## PyCharm .idea files
+.idea/
+
+#
+########################################
+## Ignored project files and directories
+include/
+lib/
+scr/__pycache__/
